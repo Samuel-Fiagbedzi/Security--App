@@ -1,0 +1,6 @@
+deepface
+PyQt5
+numpy
+imutils
+opencv-python
+pillow
